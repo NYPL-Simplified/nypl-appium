@@ -1,0 +1,4 @@
+/apps
+javascript-wd/node_modules
+python/.pytest_cache/
+python/test/results/
