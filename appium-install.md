@@ -1,4 +1,3 @@
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
 ### Appium Installation
 
 Either install through the command line through `npm`
