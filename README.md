@@ -6,7 +6,7 @@ Based on Appium's main repo [sample code](https://github.com/appium/appium).
 
 * Follow the [Appium setup guide](https://github.com/appium/appium/blob/master/docs/en/about-appium/getting-started.md) to install Appium locally.
 * Start the Appium server (either command line or desktop client).
-* Choose the client library that you wish to run and then follow the guide in `sample-code/<client-language>/README.md` (e.g.: `sample-code/python/README.md`)
+* Choose the client library that you wish to run and then follow the guide in `/<client-language>/README.md` (e.g.: `/python/README.md`)
 
 ## Environment variables
 
